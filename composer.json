@@ -1,0 +1,15 @@
+{
+    "name": "chris/test_symfony",
+    "autoload": {
+        "psr-4": {
+            "Chris\\TestSymfony\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chris",
+            "email": "christophe.dumas1@gmail.com"
+        }
+    ],
+    "require": {}
+}
